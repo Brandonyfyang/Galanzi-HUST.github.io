@@ -9,12 +9,4 @@ Hello, I'm Yifan Yang, An undergraduate:
 - 🤔 I’m looking for help with advanced designers in Analog circuits
 - 📫 How to reach me: 2197209675@qq.com
 - ⚡ Hobbies:Basketball,Running
-### Hi there 👋
-
-Hello, I'm [Fusion Zhu](https://www.upwork.com/fl/huanqingzhu), A Full-stack development:
-
-- 👨‍💼 I currently work in Shenzhen,China.
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 I currently learn English.
-- 📺 I currently continue to make some [videos](https://www.ixigua.com/home/109529239261) about learning programming. 
-- 👯 I look for cooperation opportunities on [Upwork](https://www.upwork.com/fl/huanqingzhu).
 
