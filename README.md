@@ -1,2 +1,2 @@
-# cma9cma.github.io
+# Galanzi-HUST.github.io
 Personal website
